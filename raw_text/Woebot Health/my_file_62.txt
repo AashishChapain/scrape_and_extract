@@ -1,0 +1,1 @@
+This is an overview of all used purposes by Vendors, configured by Complianz.io TCF CMP.
